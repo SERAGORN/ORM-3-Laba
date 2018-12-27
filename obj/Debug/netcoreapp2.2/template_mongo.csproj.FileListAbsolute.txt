@@ -1,0 +1,11 @@
+/Users/user/Documents/net_proj/template_mongo/bin/Debug/netcoreapp2.2/template_mongo.deps.json
+/Users/user/Documents/net_proj/template_mongo/bin/Debug/netcoreapp2.2/template_mongo.runtimeconfig.json
+/Users/user/Documents/net_proj/template_mongo/bin/Debug/netcoreapp2.2/template_mongo.runtimeconfig.dev.json
+/Users/user/Documents/net_proj/template_mongo/bin/Debug/netcoreapp2.2/template_mongo.dll
+/Users/user/Documents/net_proj/template_mongo/bin/Debug/netcoreapp2.2/template_mongo.pdb
+/Users/user/Documents/net_proj/template_mongo/obj/Debug/netcoreapp2.2/template_mongo.csprojAssemblyReference.cache
+/Users/user/Documents/net_proj/template_mongo/obj/Debug/netcoreapp2.2/template_mongo.csproj.CoreCompileInputs.cache
+/Users/user/Documents/net_proj/template_mongo/obj/Debug/netcoreapp2.2/template_mongo.AssemblyInfoInputs.cache
+/Users/user/Documents/net_proj/template_mongo/obj/Debug/netcoreapp2.2/template_mongo.AssemblyInfo.cs
+/Users/user/Documents/net_proj/template_mongo/obj/Debug/netcoreapp2.2/template_mongo.dll
+/Users/user/Documents/net_proj/template_mongo/obj/Debug/netcoreapp2.2/template_mongo.pdb
